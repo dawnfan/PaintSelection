@@ -1,0 +1,5 @@
+/x64
+*.qrc
+*.vcxproj
+*.filters
+*.user
